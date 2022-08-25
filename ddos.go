@@ -8,7 +8,7 @@ As a result, here you are.
 */
 package main
 
-import (
+import (https://apktodo.com/vi/download/mod/play-together-32484-418/
 	"bufio"
 	"crypto/tls"
 	"fmt"
